@@ -1,4 +1,3 @@
-GIT Commands
 # Step 1: Create a directory and navigate into it
 mkdir git-for-devops
 cd git-for-devops/
@@ -7,7 +6,7 @@ cd git-for-devops/
 git init
 
 # Step 3: Configure Git user settings
-git config --global user.name "username"
+git config --global user.name "usename"
 git config --global user.email "email"
 
 # Step 4: Create a file, add it to the staging area, and commit
