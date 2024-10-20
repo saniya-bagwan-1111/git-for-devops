@@ -7,8 +7,8 @@ cd git-for-devops/
 git init
 
 # Step 3: Configure Git user settings
-git config --global user.name "saniya-bagwan-1111"
-git config --global user.email "saniyabagwan1111@gmail.com"
+git config --global user.name "username"
+git config --global user.email "email"
 
 # Step 4: Create a file, add it to the staging area, and commit
 touch nibba.txt
