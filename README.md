@@ -20,4 +20,9 @@ git push -u origin main
 **6 Push to the Repository**
 If you want to remove a Git remote from your repository, use:
 git remote remove <remote-name>
+
 ex- git remote remove origin
+
+**Pull with rebase (recommended for cleaner history)**
+git pull --rebase origin main
+git push origin main
